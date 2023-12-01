@@ -2,7 +2,7 @@
   "name": "sy-eye-care-dark-theme",
   "author": "IAliceBobI",
   "url": "https://github.com/IAliceBobI/sy-eye-care-dark-theme",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "minAppVersion": "2.8.8",
   "displayName": {
     "default": "eye care dark theme",
@@ -10,7 +10,7 @@
   },
   "description": {
     "default": "eye care dark",
-    "zh_CN": "护眼、高性能"
+    "zh_CN": "柔和、朦胧灰黑护眼、高性能"
   },
   "readme": {
     "default": "README.md",
